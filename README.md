@@ -1,6 +1,6 @@
 # Hi, I'm Md Salim 👋
 
-### Business Analyst | Data Analytics | Business Intelligence | Python & SQL
+### AI Engineer | AI ML Engineer | Business Analyst 
 
 I am a **Business Analyst with 4+ years of professional experience** in Data Analysis, Business Intelligence, MIS Reporting, and Process Optimization. I specialize in transforming complex datasets into meaningful business insights that support strategic decision-making and improve operational efficiency.
 
