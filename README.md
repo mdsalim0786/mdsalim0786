@@ -1,4 +1,4 @@
-# Hi, I'm MD Salim 👋
+# Hi, I'm Md Salim 👋
 
 ### Business Analyst | Data Analytics | Business Intelligence | Python & SQL
 
